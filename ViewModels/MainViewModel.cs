@@ -27,7 +27,6 @@ namespace CodingTask
                 {
                     Variable = v.Key,
                     Description = v.Value.Description,
-                    VarType = v.Value.VarType,
                     Value= v.Value.Value,
                 };
 
